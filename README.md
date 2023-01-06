@@ -5,4 +5,7 @@
 
 👩🏻‍💻- Atualmente sou Estudante em Desenvolvimento Web na Trybe
 
-🤓-  Html, CSS, JavaScript, HOFs, Frontend
+
+
+
+
