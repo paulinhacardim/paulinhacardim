@@ -1,15 +1,15 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+CARLOS+TONINI;+WELCOME+TO+MY+GITHUB+:%29)](https://git.io/typing-svg)
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carloshtbraga&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1119" alt="stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloshtbraga&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1119" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinhacardim&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1119" />
 </div>
 <!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=carloshtbraga&theme=gotham&hide_border=true&area=true&color=00bfbf) -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
   <h1 align="center">Seja bem vindo(a) ao meu GitHUB!</h1>
-  <h5 align="center">Me chamo Ana Paula, sou mais conhecida como Paulinha. Tenho 37 anos e sou mãe do Mateus. Tenho formação na área de saúde como Tecnóloga em Radiologia. No final de 2022, comecei minha transição de carreira para a Computação e, iniciei meus estudos na Trybe. Desde então tenho mergulhado neste mundo incrível que é a Tecnologia. Sempre em mudança e em constante evolução! Afinal, a vida é feita disto...</h5>
-  <div align="center">
+  <h4 align="center">Me chamo Ana Paula, sou mais conhecida como Paulinha. Tenho 37 anos e sou mãe do Mateus. Tenho formação na área de saúde como Tecnóloga em Radiologia. No final de 2022, comecei minha transição de carreira para a Computação e, iniciei meus estudos na Trybe. Desde então tenho mergulhado neste mundo incrível que é a Tecnologia. Sempre em mudança e em constante evolução! Afinal, a vida é feita disto...</h4>
+  <div align="center" color: BLUE>
   <br><br>
 
 <br><br>
