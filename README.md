@@ -27,7 +27,7 @@
 
  <br><br>
 
-![Ana Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulinhacardim&show_icons=true&theme=tokyonight)
+![Ana Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulinhacardim&show_icons=true&theme=cobalt)
 
 <div>
 </div>
