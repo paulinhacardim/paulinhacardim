@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4a9ae9&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=25E3E3&height=120&section=header"/>
   <h2 align="center">Seja bem vindo(a) ao meu GitHub!</h2>
   <h4 align="center">Olá! Me chamo Ana Paula, seja bem vindo(a) ao meu perfil. Tenho formação na área de saúde como Tecnóloga em Radiologia. No final de 2022, comecei minha transição de carreira para a Computação e iniciei meus estudos na Trybe. Desde então, tenho mergulhado neste mundo incrível que é a Tecnologia. Sempre em mudança e em constante evolução! Afinal, a vida é feita disto...</h4>
   <div align="center" color: >
