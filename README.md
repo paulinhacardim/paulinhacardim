@@ -6,7 +6,7 @@
   <div font-family= verdana>
   <br><br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4a9ae9&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E800FC&height=120&section=footer"/>
 
 <br><br>
 
