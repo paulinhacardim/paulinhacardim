@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0092C4&height=140&section=header"/>
   <h2 align="center">Seja bem vindo(a) ao meu GitHub!</h2>
   <h4 align="center">Olá! Me chamo Ana Paula, seja bem vindo(a) ao meu perfil. Tenho formação na área de saúde como Tecnóloga em Radiologia. No final de 2022, comecei minha transição de carreira para a Computação e iniciei meus estudos na Trybe. Desde então, tenho mergulhado neste mundo incrível que é a Tecnologia. Sempre em mudança e em constante evolução! Afinal, a vida é feita disto...</h4>
-  <div align="center" color: >
+  <div align="center" color: magenta>
   <div font-family= verdana>
   <br><br>
 
@@ -24,7 +24,7 @@
 <img src= 'https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'>
 <img src= 'https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
 <img src= 'https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
-
+<img src= 'https://img.shields.io/badge/Docker-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
  <br><br>
 
 ![Ana Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulinhacardim&show_icons=true&theme=synthwave)  
