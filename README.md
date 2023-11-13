@@ -6,7 +6,7 @@
   <div font-family= montserrat>
   <br><br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D6008E&height=140&section=footer"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0092C4&height=140&section=footer"/> 
 
 <br><br>
 
