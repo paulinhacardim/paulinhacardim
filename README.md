@@ -1,37 +1,55 @@
+<br clear="both">
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0092C4&height=140&section=header"/>
-  <h2 align="center">Seja bem vindo(a) ao meu GitHub!</h2>
-  <h4 align="center">Olá! Me chamo Ana Paula, seja bem vindo(a) ao meu perfil. Tenho formação na área de saúde como Tecnóloga em Radiologia. No final de 2022, comecei minha transição de carreira para a Computação e iniciei meus estudos na Trybe. Desde então, tenho mergulhado neste mundo incrível que é a Tecnologia. Sempre em mudança e em constante evolução! Afinal, a vida é feita disto...</h4>
-  <div align="center" color: 'black'>
-  <div font-family= montserrat>
-  <br><br>
+<h2 align="left">Olá👋! Olá! Me chamo Ana Paula, seja bem vindo(a) ao meu perfil! <br><br>Tenho formação na área de saúde como tecnóloga em Radiologia. No final de 2022, comecei minha transição de carreira para a Tecnologia e iniciei meus estudos na Trybe. <br><br>Desde então, tenho mergulhado neste mundo incrível que é a Tecnologia. Sempre em mudança e em constante evolução! <br><br>Afinal, a vida é feita disto...</h2>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0092C4&height=140&section=footer"/> 
+###
 
-<br><br>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-  <div style = text-align: center, margin-left: 10px>
+###
 
-<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
-<img src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'>
-<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
-<img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white'>
-<img src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white'>
-<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'> 
-<img src=	'https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
-<img src= 'https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
-<img src= 'https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
-<img src= 'https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'>
-<img src= 'https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
-<img src= 'https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
-<img src='https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=blue'>
- <br><br>
-
-![Ana Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulinhacardim&show_icons=true&theme=synthwave)  
-
-<div>
+<div align="center">
+  <img height="200" src="file:///Users/paulinha/Documents/foto%20perfil.png"  />
 </div>
 
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+</div>
 
+###
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/ana-paula-oliveira-cardim/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
