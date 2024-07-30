@@ -1,6 +1,5 @@
-<br clear="both">
 
-<h2 align="left"><Olá👋! Me chamo Ana Paula, seja bem vindo(a) ao meu perfil! <br><br>Tenho formação na área de saúde como tecnóloga em Radiologia. No final de 2022, comecei minha transição de carreira para a Tecnologia e iniciei meus estudos na Trybe. <br><br>Desde então, tenho mergulhado neste mundo incrível que é a Tecnologia. Sempre em mudança e em constante evolução! <br><br>Afinal, a vida é feita disto...</h2>
+<h2 align="left">Olá👋! Me chamo Ana Paula, seja bem vindo(a) ao meu perfil! <br><br>Tenho formação na área de saúde como tecnóloga em Radiologia. No final de 2022, comecei minha transição de carreira para a Tecnologia e iniciei meus estudos na Trybe. <br><br>Desde então, tenho mergulhado neste mundo incrível que é a Tecnologia. Sempre em mudança e em constante evolução! <br><br>Afinal, a vida é feita disto...</h2>
 
 ###
 
