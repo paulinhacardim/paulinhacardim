@@ -18,9 +18,9 @@ Foi um ano intenso de dedicação exclusiva, no qual desenvolvi habilidades em d
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,python,docker,mysql,oracle,git,github" />
-</div>
-Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas** pela **Universidade Estácio de Sá**.
----
+</div><br><br>
+Atualmente sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá.
+
 
 ## 🔧 Tecnologias e Ferramentas
 
