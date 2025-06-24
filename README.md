@@ -41,8 +41,8 @@ Amo construir soluções úteis e escaláveis, e estou sempre aprendendo algo no
 
 ## 📫 Vamos conversar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ana-paula-link)  
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ana-paula-oliveira-cardim/)  
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulinhacardim@gmail.com)
 
 ---
 
