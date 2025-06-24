@@ -8,10 +8,6 @@ Sou uma desenvolvedora apaixonada por tecnologia e inovação. 🚀
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulinhacardim&show_icons=true&theme=radical)
-
----
-
 ## 🧠 Sobre mim
 
 Iniciei minha trajetória profissional na área da saúde, onde atuei por **10 anos** sem experiência prévia.  
@@ -51,4 +47,10 @@ Amo construir soluções úteis e escaláveis, e estou sempre aprendendo algo no
 ---
 
 > ⭐ “A tecnologia move o mundo” — Steve Jobs
+
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulinhacardim&show_icons=true&theme=radical)
+
+---
 
