@@ -1,5 +1,8 @@
 
-<h2 align="left">Olá👋! Me chamo Ana Paula, seja bem vindo(a) ao meu perfil! <br><br>Tenho formação na área de saúde como tecnóloga em Radiologia. No final de 2022, comecei minha transição de carreira para a Tecnologia e iniciei meus estudos na Trybe. <br><br>Desde então, tenho mergulhado neste mundo incrível que é a Tecnologia. Sempre em mudança e em constante evolução! <br><br>Afinal, a vida é feita disto...</h2>
+<h2 align="left">Olá👋! Me chamo Ana Paula, seja bem vindo(a) ao meu perfil! <br><br>
+Iniciei minha trajetória profissional na área da saúde, onde atuei por 10 anos sem experiência prévia. Durante a pandemia, decidi empreender e percebi a necessidade de aprofundar meus conhecimentos sobre comércio eletrônico e tecnologia.<br><br>
+Em 2022, fiz a transição de carreira e iniciei meus estudos em Desenvolvimento Web FullStack na Trybe. Foi um ano intenso de dedicação exclusiva, no qual desenvolvi habilidades em diversas tecnologias, como HTML, CSS, JavaScript, React.js, Python, Docker, MySQL, Oracle, Git, GitHub, entre outras.<br><br>
+Desde então, venho mergulhando no universo da tecnologia, aplicando meus conhecimentos em projetos que envolvem tanto o Front-end quanto o Back-end. 
 
 ###
 
