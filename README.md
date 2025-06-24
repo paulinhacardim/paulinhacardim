@@ -8,6 +8,10 @@ Sou uma desenvolvedora apaixonada por tecnologia e inovação. 🚀
 
 ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulinhacardim&show_icons=true&theme=radical)
+
+---
+
 ## 🧠 Sobre mim
 
 Iniciei minha trajetória profissional na área da saúde, onde atuei por **10 anos** sem experiência prévia.  
